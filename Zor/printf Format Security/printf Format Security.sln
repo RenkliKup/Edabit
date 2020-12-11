@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "printf Format Security", "printf Format Security\printf Format Security.vcxproj", "{DD5C885B-2A3A-442A-B468-926857F82323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5C885B-2A3A-442A-B468-926857F82323}.Debug|x64.ActiveCfg = Debug|x64
+		{DD5C885B-2A3A-442A-B468-926857F82323}.Debug|x64.Build.0 = Debug|x64
+		{DD5C885B-2A3A-442A-B468-926857F82323}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD5C885B-2A3A-442A-B468-926857F82323}.Debug|x86.Build.0 = Debug|Win32
+		{DD5C885B-2A3A-442A-B468-926857F82323}.Release|x64.ActiveCfg = Release|x64
+		{DD5C885B-2A3A-442A-B468-926857F82323}.Release|x64.Build.0 = Release|x64
+		{DD5C885B-2A3A-442A-B468-926857F82323}.Release|x86.ActiveCfg = Release|Win32
+		{DD5C885B-2A3A-442A-B468-926857F82323}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62980F64-0B53-4486-AC3F-9E16011E7770}
+	EndGlobalSection
+EndGlobal
